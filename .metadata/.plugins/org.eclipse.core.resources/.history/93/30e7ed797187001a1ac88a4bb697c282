@@ -3,7 +3,6 @@ package p1;
 public class app {
 
 	public static void main(String[] args) {
-		
 	//Primitive data types - Create variables
 		int aValue = 42;
 		//32 Bit value.Larger range of values.	

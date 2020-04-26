@@ -1,0 +1,15 @@
+package p1;
+
+public class app {
+
+	public static void main(String[] args) {
+		
+		int aValue = 42;
+		//32 Bit value.Larger range of values.
+		
+		short aShort = 
+		//16 bit value in Java. Smaller range of values.
+				
+		System.out.println(aValue);
+	}
+}

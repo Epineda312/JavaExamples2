@@ -3,7 +3,6 @@ package p1;
 public class app {
 
 	public static void main(String[] args) {
-		
 	//Primitive data types - Create variables
 		int aValue = 42;
 		//32 Bit value.Larger range of values.	
@@ -16,11 +15,11 @@ public class app {
 		float aFloat = 5.243F;
 		//32 bit value. Used to define numbers with decimals.Less decimal places, less precise than a double.
 		char aChar = 'b';
-		//Stores a single character/letter or ASCII values
+		//
 		boolean aBoolean = true;
-		//Stores true or false values
+		//
 		byte aByte = 127;
-		//The byte data type is an 8-bit signed two's complement integer.(min -128, max 127)
+		//
 				
 	//Print variables
 		System.out.println(aValue);
