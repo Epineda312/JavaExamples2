@@ -5,20 +5,29 @@ public class app {
 	public static void main(String[] args) {
 		
 	//Primitive data types - Create variables
+		
 		int aValue = 42;
 		//32 Bit value.Larger range of values.	
+		
 		short aShort = 93;
 		//16 bit value. Smaller range of values.	
-		Long aLong = 8304;
+		
+		Long aLong = 8304L;
 		//64 bit value Very large range of numbers.
+		
 		double aDouble = 3.4553;
 		//64 bit value. Used to define numbers with decimals.
+		
 		float aFloat = 5.243F;
-		//32 bit value. Used to define numbers with decimals.Less decimal places, less precise than a double.
+		/*32 bit value. Used to define numbers with decimals.Less decimal places, 
+		  less precise than a double.*/
+		
 		char aChar = 'b';
 		//Stores a single character/letter or ASCII values
+		
 		boolean aBoolean = true;
 		//Stores true or false values
+		
 		byte aByte = 127;
 		//The byte data type is an 8-bit signed two's complement integer.(min -128, max 127)
 				
