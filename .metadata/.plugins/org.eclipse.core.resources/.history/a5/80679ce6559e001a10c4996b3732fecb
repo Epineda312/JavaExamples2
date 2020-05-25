@@ -1,0 +1,26 @@
+
+class Program {
+	
+	int value;
+	
+	public Program() {
+		System.out.println("First Constructor");
+		
+		value = 12;
+	}
+
+	public Program(int value) {
+		
+		this.value = value;
+		System.out.println("Second constructor");
+	}
+}
+
+public class Constructors {
+	public static void main(String[] args) {
+		
+		Program myProgram = new Program();
+		Program myProgram1 = newProgram(2);
+			
+	}
+}
